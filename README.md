@@ -3,7 +3,7 @@
 The very famous Battleship game with one human player
 on one map with some ships and on the other map an AI player.
 
-This game I have written in Python with PyGame Module,
+This game I have written in Python with PyGame Module, <br>
 Numpy arrays and also uses advanced Python concepts such as
 OOP and recursive functions.
 
